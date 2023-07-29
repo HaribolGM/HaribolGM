@@ -59,11 +59,11 @@
 
 
 
-<div align="center">
+<div align="left">
 
 ## ✨ Wisdom :
 
-<h3>
+<h4>
 
 🔴 <b>Watch your thoughts,</b> <i>they become your words.</i>
 <br><br>
@@ -82,7 +82,7 @@
 
 🟢 <b>There You Go</b>
 
-</h3>
+</h4>
 
 # [HaribolGM.github.io](https://HaribolGM.github.io)
 ### _From MIT Polytechnic Pune_
