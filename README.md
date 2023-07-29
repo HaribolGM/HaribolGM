@@ -1,6 +1,6 @@
 <div align='center'>
   <div>
-    <img src='https://github.com/AshishAntil07/AshishAntil07/blob/home/Prog.png' width='200px' height='200px'>
+    <img src='https://avatars.githubusercontent.com/u/104340985?v=4' width='200px' height='200px'>
   </div>
   <h3>
     <pre>Gaurav Mali</pre>
