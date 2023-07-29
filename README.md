@@ -1,7 +1,8 @@
 <div align='center'>
-  <div>
-    <img src='https://avatars.githubusercontent.com/u/104340985?v=4' width='200px' height='200px'>
-  </div>
+<div align="center">
+  <img src='https://avatars.githubusercontent.com/u/104340985?v=4' style='width:200px; height:200px; border-radius:50%; border: 3px solid purple;'>
+</div>
+
   <h3>
     <pre>Gaurav Mali</pre>
   </h3>
