@@ -57,41 +57,46 @@
 
 
 
+
+
+
+<div align="center">
+
 ## ✨ Inspiring Quote 
 
-<h2 align='center'>
+<h2>
 
-<div align='center'> 
-  $${\color{red}Watch \space your \space thoughts,}$$
-$${\color{lightblue}they \space become \space your \space words.}$$
-</div>
+  
+🔴 **Watch your thoughts,**<br>
+🔵 _they become your words._
 
-<div align='center'>  
- $${\color{red}Watch \space your \space words,}$$
- $${\color{lightblue}they \space become \space your \space actions.}$$
-</div>
+<br>
 
-<div align='center'> 
- $${\color{red}Watch \space your \space actions,}$$
- $${\color{lightblue}they \space become \space your \space habits,}$$
-</div>
+🔴 **Watch your words,**<br>
+🔵 _they become your actions._
 
-<div align='center'> 
- $${\color{red}Watch \space your \space habits,}$$
- $${\color{lightblue}they \space become \space your \space character.}$$
-</div>
+<br>
 
-<div align='center'> 
- $${\color{red}Watch \space your \space character,}$$
- $${\color{lightblue}It \space  becomes \space your \space destiny}$$
-</div>
+🔴 **Watch your actions,**<br>
+🔵 _they become your habits._
 
-<div align='center'> 
- $${\color{lightgreen} There \space \space   You \space \space  Go}$$
-</div>
+<br>
+
+🔴 **Watch your habits,**<br>
+🔵 _they become your character._
+
+<br>
+
+🔴 **Watch your character,**<br>
+🔵 _It becomes your destiny._
+
+<br>
+
+🟢 **There You Go**
+
 </h2>
 
+# HaribolGM.github.io
+## FROM MIT POLYTECHNIC PUNE
 
-
-<h4>From  MIT Polytechnic Pune
-</h4>
+</div>
