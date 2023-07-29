@@ -59,44 +59,32 @@
 
 
 
-
 <div align="center">
 
-## ✨ Inspiring Quote 
+## ✨ Wisdom :
 
-<h2>
+<h3>
 
-  
-🔴 **Watch your thoughts,**<br>
-🔵 _they become your words._
+🔴 <b>Watch your thoughts,</b> <i>they become your words.</i>
+<br><br>
 
-<br>
+🔴 <b>Watch your words,</b> <i>they become your actions.</i>
+<br><br>
 
-🔴 **Watch your words,**<br>
-🔵 _they become your actions._
+🔴 <b>Watch your actions,</b> <i>they become your habits.</i>
+<br><br>
 
-<br>
+🔴 <b>Watch your habits,</b> <i>they become your character.</i>
+<br><br>
 
-🔴 **Watch your actions,**<br>
-🔵 _they become your habits._
+🔴 <b>Watch your character,</b> <i>It becomes your destiny.</i>
+<br><br>
 
-<br>
+🟢 <b>There You Go</b>
 
-🔴 **Watch your habits,**<br>
-🔵 _they become your character._
+</h3>
 
-<br>
-
-🔴 **Watch your character,**<br>
-🔵 _It becomes your destiny._
-
-<br>
-
-🟢 **There You Go**
-
-</h2>
-
-# HaribolGM.github.io
-## FROM MIT POLYTECHNIC PUNE
+# [HaribolGM.github.io](https://HaribolGM.github.io)
+### _From MIT Polytechnic Pune_
 
 </div>
