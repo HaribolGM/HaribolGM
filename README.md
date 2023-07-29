@@ -55,35 +55,43 @@
 
 - 150+wpm on typeracer
 
-# Inspiring Quote
 
-<div> 
+
+## ✨ Inspiring Quote 
+
+<h2 align='center'>
+
+<div align='center'> 
   $${\color{red}Watch \space your \space thoughts,}$$
 $${\color{lightblue}they \space become \space your \space words.}$$
 </div>
 
-<div>  
+<div align='center'>  
  $${\color{red}Watch \space your \space words,}$$
  $${\color{lightblue}they \space become \space your \space actions.}$$
 </div>
 
-<div> 
+<div align='center'> 
  $${\color{red}Watch \space your \space actions,}$$
  $${\color{lightblue}they \space become \space your \space habits,}$$
 </div>
 
-<div> 
+<div align='center'> 
  $${\color{red}Watch \space your \space habits,}$$
  $${\color{lightblue}they \space become \space your \space character.}$$
 </div>
 
-<div> 
+<div align='center'> 
  $${\color{red}Watch \space your \space character,}$$
  $${\color{lightblue}It \space  becomes \space your \space destiny}$$
 </div>
 
-<div> 
+<div align='center'> 
  $${\color{lightgreen} There \space \space   You \space \space  Go}$$
 </div>
+</h2>
+
+
+
 
 # From MIT Polytechnic Pune
