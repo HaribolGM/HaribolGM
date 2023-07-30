@@ -1,6 +1,6 @@
 <div align='center'>
 <div align="center">
-  <img src='https://www.pngmart.com/files/11/Internet-Hacker-PNG-Image.png' style='width:200px; height:200px; border-radius:50%; border: 3px solid purple;'>
+  <img src='https://www.pngmart.com/files/11/Internet-Hacker-PNG-Image.png' style='width:400px; height:300px; border-radius:50%; border: 3px solid purple;'>
 </div>
 
   <h3>
