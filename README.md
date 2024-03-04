@@ -23,39 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 </div>
 
-## 📚 I'm currently learning:
-
-- **Angular**
-- **Advanced Python**
-
-**_I love Angular.❤_**
-
-## 💼 Backend:
-
-- MongoDB
-- MySQL
-- Node.js
-
-## 💻 Frontend:
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-
-## 🛠️ Framework:
-
-- Angular
-
-## 🔒 Hacking:
-
-- CEH certified
-- CNNA certified
-
-## ⌨️ Typing:
-
-- 150+wpm on typeracer
-
 
 
 
