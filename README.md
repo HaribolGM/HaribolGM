@@ -1,59 +1,70 @@
-<div align='center'>
-<div align="center">
-  <img src='https://www.pngmart.com/files/11/Internet-Hacker-PNG-Image.png' style='width:400px; height:300px; border-radius:50%; border: 3px solid purple;'>
-</div>
+<h1 align="center">Gaurav Mali</h1>
 
-  <h3>
-    <pre>Gaurav Mali</pre>
-  </h3>
-  <div><img src="https://komarev.com/ghpvc/?username=GauravMali&style=flat-square&color=6ec6de" height='21px' width = '110px'/></div>
-</div>
+<p align="center">
+  Founder &amp; Creative Developer at <a href="https://undreamstudio.com/"><b>Undream Studio</b></a><br>
+  Immersive web, WebGL and 3D experiences. Pune, India.
+</p>
 
-<div align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code%2c+consolas&size=25&duration=5000&pause=200&center=true&vCenter=true&width=1000&lines=It's+Gaurav%2C+a+programmer+from+India.;Taking+tutorials+from+Youtube.;Self-taught+programmer+and+tech+enthusiast.;2%2B+years+of+experience+in+web+development." alt="Typing SVG" /></a>
-</div>
+<p align="center">
+  <a href="https://undreamstudio.com/">Studio</a> ·
+  <a href="https://www.linkedin.com/in/gauravmalii/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/gauravmali_26_official/">Instagram</a> ·
+  <a href="mailto:projects@undreamstudio.com">projects@undreamstudio.com</a>
+</p>
 
-## 🛠 Tech Stack:
+<br>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-</div>
+### About
 
+I run Undream Studio, a creative studio building WebGL websites, 3D product experiences and premium digital brands for clients across India, France, the USA and the UAE.
 
+My work sits between design and engineering: real-time 3D on the web, shader and material work, motion, and the performance engineering that keeps all of it running at 60fps on a mid-range phone.
 
+Currently open to select client projects and studio collaborations.
 
+<br>
 
-<div align="left">
+### Selected work
 
-## ✨ Wisdom :
+| Project | Location | Year |
+| :-- | :-- | :-- |
+| [Phoenix Music Group](https://undreamstudio.com/projects/phoenix-music-group/) | Paris, France | 2025 |
+| [The Silence Museum](https://undreamstudio.com/projects/the-silence-museum/) | Paris, France | 2025 |
+| [Skybag Experience](https://undreamstudio.com/projects/skybag-experience/) | Pune, India | 2025 |
+| [Black Cream](https://undreamstudio.com/projects/black-cream/) | Pune, India | 2025 |
+| [The Networks](https://undreamstudio.com/projects/the-networks/) | Chicago, USA | 2024 |
+| [Chemorg](https://undreamstudio.com/projects/chemorg/) | United Arab Emirates | 2024 |
+| [Kepler 22B](https://undreamstudio.com/projects/kepler-22b/) | Pune, India | 2023 |
 
-<h4>
+<sub>Full archive of 16 projects at <a href="https://undreamstudio.com/">undreamstudio.com</a>.</sub>
 
-🔴 <b>Watch your thoughts,</b> <i>they become your words.</i>
-<br><br>
+<br>
 
-🔴 <b>Watch your words,</b> <i>they become your actions.</i>
-<br><br>
+### What I build
 
-🔴 <b>Watch your actions,</b> <i>they become your habits.</i>
-<br><br>
+**3D & real time** · Three.js, React Three Fiber, GLSL shaders, WebGL, GSAP<br>
+**Front end** · TypeScript, React, Next.js, SCSS, Vite<br>
+**Pipeline** · Blender, glTF optimisation, Draco / KTX2 compression, baked lighting
 
-🔴 <b>Watch your habits,</b> <i>they become your character.</i>
-<br><br>
+<p>
+  <img src="https://img.shields.io/badge/Three.js-111111?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/WebGL-111111?style=flat-square&logo=webgl&logoColor=white" alt="WebGL">
+  <img src="https://img.shields.io/badge/GLSL-111111?style=flat-square" alt="GLSL">
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/GSAP-111111?style=flat-square&logo=greensock&logoColor=white" alt="GSAP">
+  <img src="https://img.shields.io/badge/Blender-111111?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+</p>
 
-🔴 <b>Watch your character,</b> <i>It becomes your destiny.</i>
-<br><br>
+<br>
 
-🟢 <b>There You Go</b>
+### Working together
 
-</h4>
+Undream Studio takes on immersive site builds, 3D product configurators and brand experiences, typically as a small senior team working directly with founders and design leads.
 
-#### [HaribolGM.github.io](https://HaribolGM.github.io)
-### _From MIT 
-_
+Start a conversation at **[projects@undreamstudio.com](mailto:projects@undreamstudio.com)**.
 
-</div>
+<br>
+
+<sub>Most client repositories here are private. Live work is best seen at <a href="https://undreamstudio.com/">undreamstudio.com</a>.</sub>
